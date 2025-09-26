@@ -1,4 +1,4 @@
-# sign-language-detector-python
+# Gesture Interpreter
 
 Sign language detector with Python, OpenCV and Mediapipe !
 
